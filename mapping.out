@@ -1,0 +1,1002 @@
+Fri Sep  6 10:18:47 AM BST 2024
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/724_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/724_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:18:47 ..... started STAR run
+Sep 06 10:18:47 ..... loading genome
+Sep 06 10:19:21 ..... started 1st pass mapping
+Sep 06 10:19:58 ..... finished 1st pass mapping
+Sep 06 10:19:59 ..... inserting junctions into the genome indices
+Sep 06 10:21:19 ..... started mapping
+Sep 06 10:23:30 ..... finished mapping
+Sep 06 10:23:31 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/645_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/645_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:23:32 ..... started STAR run
+Sep 06 10:23:32 ..... loading genome
+Sep 06 10:24:00 ..... started 1st pass mapping
+Sep 06 10:24:37 ..... finished 1st pass mapping
+Sep 06 10:24:38 ..... inserting junctions into the genome indices
+Sep 06 10:25:58 ..... started mapping
+Sep 06 10:27:43 ..... finished mapping
+Sep 06 10:27:44 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/730_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/730_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:27:44 ..... started STAR run
+Sep 06 10:27:44 ..... loading genome
+Sep 06 10:28:13 ..... started 1st pass mapping
+Sep 06 10:29:10 ..... finished 1st pass mapping
+Sep 06 10:29:11 ..... inserting junctions into the genome indices
+Sep 06 10:30:31 ..... started mapping
+Sep 06 10:33:28 ..... finished mapping
+Sep 06 10:33:29 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/745_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/745_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:33:30 ..... started STAR run
+Sep 06 10:33:30 ..... loading genome
+Sep 06 10:34:03 ..... started 1st pass mapping
+Sep 06 10:34:35 ..... finished 1st pass mapping
+Sep 06 10:34:36 ..... inserting junctions into the genome indices
+Sep 06 10:35:57 ..... started mapping
+Sep 06 10:37:38 ..... finished mapping
+Sep 06 10:37:39 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/667_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/667_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:37:40 ..... started STAR run
+Sep 06 10:37:40 ..... loading genome
+Sep 06 10:38:09 ..... started 1st pass mapping
+Sep 06 10:38:43 ..... finished 1st pass mapping
+Sep 06 10:38:44 ..... inserting junctions into the genome indices
+Sep 06 10:40:04 ..... started mapping
+Sep 06 10:41:40 ..... finished mapping
+Sep 06 10:41:41 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/712_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/712_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:41:42 ..... started STAR run
+Sep 06 10:41:42 ..... loading genome
+Sep 06 10:42:11 ..... started 1st pass mapping
+Sep 06 10:42:51 ..... finished 1st pass mapping
+Sep 06 10:42:52 ..... inserting junctions into the genome indices
+Sep 06 10:44:11 ..... started mapping
+Sep 06 10:46:32 ..... finished mapping
+Sep 06 10:46:33 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/718_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/718_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:46:33 ..... started STAR run
+Sep 06 10:46:34 ..... loading genome
+Sep 06 10:47:03 ..... started 1st pass mapping
+Sep 06 10:47:34 ..... finished 1st pass mapping
+Sep 06 10:47:35 ..... inserting junctions into the genome indices
+Sep 06 10:48:53 ..... started mapping
+Sep 06 10:50:28 ..... finished mapping
+Sep 06 10:50:29 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/706_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/706_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:50:30 ..... started STAR run
+Sep 06 10:50:30 ..... loading genome
+Sep 06 10:50:58 ..... started 1st pass mapping
+Sep 06 10:51:37 ..... finished 1st pass mapping
+Sep 06 10:51:38 ..... inserting junctions into the genome indices
+Sep 06 10:52:56 ..... started mapping
+Sep 06 10:55:04 ..... finished mapping
+Sep 06 10:55:05 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/735_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/735_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:55:06 ..... started STAR run
+Sep 06 10:55:06 ..... loading genome
+Sep 06 10:55:35 ..... started 1st pass mapping
+Sep 06 10:56:09 ..... finished 1st pass mapping
+Sep 06 10:56:10 ..... inserting junctions into the genome indices
+Sep 06 10:57:30 ..... started mapping
+Sep 06 10:59:24 ..... finished mapping
+Sep 06 10:59:26 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/740_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/740_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 10:59:26 ..... started STAR run
+Sep 06 10:59:27 ..... loading genome
+Sep 06 10:59:55 ..... started 1st pass mapping
+Sep 06 11:00:26 ..... finished 1st pass mapping
+Sep 06 11:00:27 ..... inserting junctions into the genome indices
+Sep 06 11:01:47 ..... started mapping
+Sep 06 11:03:15 ..... finished mapping
+Sep 06 11:03:16 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/721_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/721_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:03:17 ..... started STAR run
+Sep 06 11:03:17 ..... loading genome
+Sep 06 11:03:45 ..... started 1st pass mapping
+Sep 06 11:04:26 ..... finished 1st pass mapping
+Sep 06 11:04:27 ..... inserting junctions into the genome indices
+Sep 06 11:05:48 ..... started mapping
+Sep 06 11:07:42 ..... finished mapping
+Sep 06 11:07:43 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/668_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/668_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:07:43 ..... started STAR run
+Sep 06 11:07:44 ..... loading genome
+Sep 06 11:08:12 ..... started 1st pass mapping
+Sep 06 11:08:34 ..... finished 1st pass mapping
+Sep 06 11:08:35 ..... inserting junctions into the genome indices
+Sep 06 11:09:55 ..... started mapping
+Sep 06 11:10:56 ..... finished mapping
+Sep 06 11:10:57 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/709_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/709_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:10:57 ..... started STAR run
+Sep 06 11:10:57 ..... loading genome
+Sep 06 11:11:25 ..... started 1st pass mapping
+Sep 06 11:12:04 ..... finished 1st pass mapping
+Sep 06 11:12:05 ..... inserting junctions into the genome indices
+Sep 06 11:13:24 ..... started mapping
+Sep 06 11:15:27 ..... finished mapping
+Sep 06 11:15:28 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/717_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/717_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:15:29 ..... started STAR run
+Sep 06 11:15:29 ..... loading genome
+Sep 06 11:15:58 ..... started 1st pass mapping
+Sep 06 11:16:39 ..... finished 1st pass mapping
+Sep 06 11:16:40 ..... inserting junctions into the genome indices
+Sep 06 11:18:01 ..... started mapping
+Sep 06 11:20:02 ..... finished mapping
+Sep 06 11:20:02 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/706_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/706_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:20:03 ..... started STAR run
+Sep 06 11:20:03 ..... loading genome
+Sep 06 11:20:33 ..... started 1st pass mapping
+Sep 06 11:21:22 ..... finished 1st pass mapping
+Sep 06 11:21:23 ..... inserting junctions into the genome indices
+Sep 06 11:22:45 ..... started mapping
+Sep 06 11:25:12 ..... finished mapping
+Sep 06 11:25:13 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/718_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/718_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:25:13 ..... started STAR run
+Sep 06 11:25:13 ..... loading genome
+Sep 06 11:25:43 ..... started 1st pass mapping
+Sep 06 11:26:23 ..... finished 1st pass mapping
+Sep 06 11:26:24 ..... inserting junctions into the genome indices
+Sep 06 11:27:42 ..... started mapping
+Sep 06 11:29:46 ..... finished mapping
+Sep 06 11:29:47 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/712_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/712_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:29:48 ..... started STAR run
+Sep 06 11:29:48 ..... loading genome
+Sep 06 11:30:17 ..... started 1st pass mapping
+Sep 06 11:30:59 ..... finished 1st pass mapping
+Sep 06 11:31:00 ..... inserting junctions into the genome indices
+Sep 06 11:32:17 ..... started mapping
+Sep 06 11:34:13 ..... finished mapping
+Sep 06 11:34:14 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/667_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/667_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:34:15 ..... started STAR run
+Sep 06 11:34:15 ..... loading genome
+Sep 06 11:34:45 ..... started 1st pass mapping
+Sep 06 11:35:18 ..... finished 1st pass mapping
+Sep 06 11:35:19 ..... inserting junctions into the genome indices
+Sep 06 11:36:39 ..... started mapping
+Sep 06 11:38:41 ..... finished mapping
+Sep 06 11:38:42 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/745_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/745_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:38:42 ..... started STAR run
+Sep 06 11:38:43 ..... loading genome
+Sep 06 11:39:12 ..... started 1st pass mapping
+Sep 06 11:39:39 ..... finished 1st pass mapping
+Sep 06 11:39:39 ..... inserting junctions into the genome indices
+Sep 06 11:40:59 ..... started mapping
+Sep 06 11:42:19 ..... finished mapping
+Sep 06 11:42:20 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/730_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/730_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:42:20 ..... started STAR run
+Sep 06 11:42:21 ..... loading genome
+Sep 06 11:42:49 ..... started 1st pass mapping
+Sep 06 11:43:13 ..... finished 1st pass mapping
+Sep 06 11:43:14 ..... inserting junctions into the genome indices
+Sep 06 11:44:33 ..... started mapping
+Sep 06 11:45:52 ..... finished mapping
+Sep 06 11:45:53 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/645_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/645_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:45:53 ..... started STAR run
+Sep 06 11:45:53 ..... loading genome
+Sep 06 11:46:22 ..... started 1st pass mapping
+Sep 06 11:47:03 ..... finished 1st pass mapping
+Sep 06 11:47:03 ..... inserting junctions into the genome indices
+Sep 06 11:48:24 ..... started mapping
+Sep 06 11:50:14 ..... finished mapping
+Sep 06 11:50:15 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/724_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/724_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:50:15 ..... started STAR run
+Sep 06 11:50:15 ..... loading genome
+Sep 06 11:50:44 ..... started 1st pass mapping
+Sep 06 11:51:29 ..... finished 1st pass mapping
+Sep 06 11:51:30 ..... inserting junctions into the genome indices
+Sep 06 11:52:49 ..... started mapping
+Sep 06 11:55:07 ..... finished mapping
+Sep 06 11:55:08 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/717_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/717_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:55:09 ..... started STAR run
+Sep 06 11:55:09 ..... loading genome
+Sep 06 11:55:39 ..... started 1st pass mapping
+Sep 06 11:56:18 ..... finished 1st pass mapping
+Sep 06 11:56:19 ..... inserting junctions into the genome indices
+Sep 06 11:57:40 ..... started mapping
+Sep 06 11:59:25 ..... finished mapping
+Sep 06 11:59:26 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/709_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/709_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 11:59:26 ..... started STAR run
+Sep 06 11:59:26 ..... loading genome
+Sep 06 11:59:56 ..... started 1st pass mapping
+Sep 06 12:00:36 ..... finished 1st pass mapping
+Sep 06 12:00:37 ..... inserting junctions into the genome indices
+Sep 06 12:01:58 ..... started mapping
+Sep 06 12:03:50 ..... finished mapping
+Sep 06 12:03:51 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/668_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/668_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:03:52 ..... started STAR run
+Sep 06 12:03:52 ..... loading genome
+Sep 06 12:04:21 ..... started 1st pass mapping
+Sep 06 12:04:56 ..... finished 1st pass mapping
+Sep 06 12:04:57 ..... inserting junctions into the genome indices
+Sep 06 12:06:16 ..... started mapping
+Sep 06 12:08:13 ..... finished mapping
+Sep 06 12:08:14 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/721_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/721_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:08:14 ..... started STAR run
+Sep 06 12:08:14 ..... loading genome
+Sep 06 12:08:43 ..... started 1st pass mapping
+Sep 06 12:09:19 ..... finished 1st pass mapping
+Sep 06 12:09:20 ..... inserting junctions into the genome indices
+Sep 06 12:10:40 ..... started mapping
+Sep 06 12:12:23 ..... finished mapping
+Sep 06 12:12:23 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/740_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/740_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:12:24 ..... started STAR run
+Sep 06 12:12:24 ..... loading genome
+Sep 06 12:12:53 ..... started 1st pass mapping
+Sep 06 12:13:43 ..... finished 1st pass mapping
+Sep 06 12:13:44 ..... inserting junctions into the genome indices
+Sep 06 12:15:05 ..... started mapping
+Sep 06 12:18:13 ..... finished mapping
+Sep 06 12:18:14 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/735_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/735_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:18:15 ..... started STAR run
+Sep 06 12:18:15 ..... loading genome
+Sep 06 12:18:46 ..... started 1st pass mapping
+Sep 06 12:19:21 ..... finished 1st pass mapping
+Sep 06 12:19:22 ..... inserting junctions into the genome indices
+Sep 06 12:20:42 ..... started mapping
+Sep 06 12:22:24 ..... finished mapping
+Sep 06 12:22:25 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/660_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/660_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:22:25 ..... started STAR run
+Sep 06 12:22:25 ..... loading genome
+Sep 06 12:22:54 ..... started 1st pass mapping
+Sep 06 12:23:33 ..... finished 1st pass mapping
+Sep 06 12:23:34 ..... inserting junctions into the genome indices
+Sep 06 12:24:55 ..... started mapping
+Sep 06 12:26:51 ..... finished mapping
+Sep 06 12:26:52 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/701_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/701_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:26:52 ..... started STAR run
+Sep 06 12:26:52 ..... loading genome
+Sep 06 12:27:21 ..... started 1st pass mapping
+Sep 06 12:27:59 ..... finished 1st pass mapping
+Sep 06 12:28:00 ..... inserting junctions into the genome indices
+Sep 06 12:29:21 ..... started mapping
+Sep 06 12:31:01 ..... finished mapping
+Sep 06 12:31:02 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/756_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/756_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:31:03 ..... started STAR run
+Sep 06 12:31:03 ..... loading genome
+Sep 06 12:31:32 ..... started 1st pass mapping
+Sep 06 12:32:06 ..... finished 1st pass mapping
+Sep 06 12:32:07 ..... inserting junctions into the genome indices
+Sep 06 12:33:27 ..... started mapping
+Sep 06 12:35:06 ..... finished mapping
+Sep 06 12:35:07 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/737_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/737_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:35:08 ..... started STAR run
+Sep 06 12:35:08 ..... loading genome
+Sep 06 12:35:37 ..... started 1st pass mapping
+Sep 06 12:36:19 ..... finished 1st pass mapping
+Sep 06 12:36:20 ..... inserting junctions into the genome indices
+Sep 06 12:37:40 ..... started mapping
+Sep 06 12:39:57 ..... finished mapping
+Sep 06 12:39:57 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/642_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/642_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:39:58 ..... started STAR run
+Sep 06 12:39:58 ..... loading genome
+Sep 06 12:40:27 ..... started 1st pass mapping
+Sep 06 12:41:06 ..... finished 1st pass mapping
+Sep 06 12:41:07 ..... inserting junctions into the genome indices
+Sep 06 12:42:26 ..... started mapping
+Sep 06 12:44:40 ..... finished mapping
+Sep 06 12:44:41 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/742_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/742_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:44:41 ..... started STAR run
+Sep 06 12:44:41 ..... loading genome
+Sep 06 12:45:11 ..... started 1st pass mapping
+Sep 06 12:45:56 ..... finished 1st pass mapping
+Sep 06 12:45:57 ..... inserting junctions into the genome indices
+Sep 06 12:47:18 ..... started mapping
+Sep 06 12:49:30 ..... finished mapping
+Sep 06 12:49:31 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/729_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/729_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:49:31 ..... started STAR run
+Sep 06 12:49:31 ..... loading genome
+Sep 06 12:50:00 ..... started 1st pass mapping
+Sep 06 12:50:34 ..... finished 1st pass mapping
+Sep 06 12:50:35 ..... inserting junctions into the genome indices
+Sep 06 12:51:55 ..... started mapping
+Sep 06 12:53:30 ..... finished mapping
+Sep 06 12:53:31 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/671_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/671_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:53:32 ..... started STAR run
+Sep 06 12:53:32 ..... loading genome
+Sep 06 12:54:01 ..... started 1st pass mapping
+Sep 06 12:54:30 ..... finished 1st pass mapping
+Sep 06 12:54:31 ..... inserting junctions into the genome indices
+Sep 06 12:55:51 ..... started mapping
+Sep 06 12:57:19 ..... finished mapping
+Sep 06 12:57:20 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/665_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/665_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 12:57:20 ..... started STAR run
+Sep 06 12:57:21 ..... loading genome
+Sep 06 12:57:50 ..... started 1st pass mapping
+Sep 06 12:58:04 ..... finished 1st pass mapping
+Sep 06 12:58:05 ..... inserting junctions into the genome indices
+Sep 06 12:59:23 ..... started mapping
+Sep 06 13:00:15 ..... finished mapping
+Sep 06 13:00:15 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/726_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/726_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:00:16 ..... started STAR run
+Sep 06 13:00:16 ..... loading genome
+Sep 06 13:00:45 ..... started 1st pass mapping
+Sep 06 13:01:18 ..... finished 1st pass mapping
+Sep 06 13:01:19 ..... inserting junctions into the genome indices
+Sep 06 13:02:40 ..... started mapping
+Sep 06 13:04:34 ..... finished mapping
+Sep 06 13:04:35 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/653_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/653_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:04:35 ..... started STAR run
+Sep 06 13:04:35 ..... loading genome
+Sep 06 13:05:09 ..... started 1st pass mapping
+Sep 06 13:06:01 ..... finished 1st pass mapping
+Sep 06 13:06:02 ..... inserting junctions into the genome indices
+Sep 06 13:07:23 ..... started mapping
+Sep 06 13:10:49 ..... finished mapping
+Sep 06 13:10:50 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/638_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/638_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:10:51 ..... started STAR run
+Sep 06 13:10:51 ..... loading genome
+Sep 06 13:11:27 ..... started 1st pass mapping
+Sep 06 13:12:09 ..... finished 1st pass mapping
+Sep 06 13:12:10 ..... inserting junctions into the genome indices
+Sep 06 13:13:31 ..... started mapping
+Sep 06 13:15:36 ..... finished mapping
+Sep 06 13:15:37 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/753_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/753_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:15:38 ..... started STAR run
+Sep 06 13:15:38 ..... loading genome
+Sep 06 13:16:08 ..... started 1st pass mapping
+Sep 06 13:16:46 ..... finished 1st pass mapping
+Sep 06 13:16:47 ..... inserting junctions into the genome indices
+Sep 06 13:18:08 ..... started mapping
+Sep 06 13:20:01 ..... finished mapping
+Sep 06 13:20:02 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/738_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/738_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:20:03 ..... started STAR run
+Sep 06 13:20:03 ..... loading genome
+Sep 06 13:20:32 ..... started 1st pass mapping
+Sep 06 13:20:59 ..... finished 1st pass mapping
+Sep 06 13:21:00 ..... inserting junctions into the genome indices
+Sep 06 13:22:18 ..... started mapping
+Sep 06 13:23:43 ..... finished mapping
+Sep 06 13:23:44 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/729_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/729_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:23:44 ..... started STAR run
+Sep 06 13:23:44 ..... loading genome
+Sep 06 13:24:14 ..... started 1st pass mapping
+Sep 06 13:24:43 ..... finished 1st pass mapping
+Sep 06 13:24:44 ..... inserting junctions into the genome indices
+Sep 06 13:26:03 ..... started mapping
+Sep 06 13:27:51 ..... finished mapping
+Sep 06 13:27:52 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/742_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/742_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:27:53 ..... started STAR run
+Sep 06 13:27:53 ..... loading genome
+Sep 06 13:28:22 ..... started 1st pass mapping
+Sep 06 13:29:05 ..... finished 1st pass mapping
+Sep 06 13:29:06 ..... inserting junctions into the genome indices
+Sep 06 13:30:26 ..... started mapping
+Sep 06 13:32:26 ..... finished mapping
+Sep 06 13:32:26 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/642_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/642_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:32:27 ..... started STAR run
+Sep 06 13:32:28 ..... loading genome
+Sep 06 13:32:59 ..... started 1st pass mapping
+Sep 06 13:33:38 ..... finished 1st pass mapping
+Sep 06 13:33:38 ..... inserting junctions into the genome indices
+Sep 06 13:34:58 ..... started mapping
+Sep 06 13:37:19 ..... finished mapping
+Sep 06 13:37:20 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/737_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/737_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:37:21 ..... started STAR run
+Sep 06 13:37:21 ..... loading genome
+Sep 06 13:37:50 ..... started 1st pass mapping
+Sep 06 13:38:40 ..... finished 1st pass mapping
+Sep 06 13:38:41 ..... inserting junctions into the genome indices
+Sep 06 13:40:00 ..... started mapping
+Sep 06 13:43:15 ..... finished mapping
+Sep 06 13:43:16 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/756_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/756_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:43:17 ..... started STAR run
+Sep 06 13:43:17 ..... loading genome
+Sep 06 13:43:50 ..... started 1st pass mapping
+Sep 06 13:44:27 ..... finished 1st pass mapping
+Sep 06 13:44:28 ..... inserting junctions into the genome indices
+Sep 06 13:45:48 ..... started mapping
+Sep 06 13:47:30 ..... finished mapping
+Sep 06 13:47:31 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/701_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/701_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:47:32 ..... started STAR run
+Sep 06 13:47:32 ..... loading genome
+Sep 06 13:48:01 ..... started 1st pass mapping
+Sep 06 13:48:40 ..... finished 1st pass mapping
+Sep 06 13:48:41 ..... inserting junctions into the genome indices
+Sep 06 13:50:00 ..... started mapping
+Sep 06 13:52:18 ..... finished mapping
+Sep 06 13:52:19 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/660_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/660_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:52:20 ..... started STAR run
+Sep 06 13:52:20 ..... loading genome
+Sep 06 13:52:51 ..... started 1st pass mapping
+Sep 06 13:53:18 ..... finished 1st pass mapping
+Sep 06 13:53:19 ..... inserting junctions into the genome indices
+Sep 06 13:54:39 ..... started mapping
+Sep 06 13:55:58 ..... finished mapping
+Sep 06 13:55:58 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/738_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/738_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 13:55:59 ..... started STAR run
+Sep 06 13:55:59 ..... loading genome
+Sep 06 13:56:30 ..... started 1st pass mapping
+Sep 06 13:57:02 ..... finished 1st pass mapping
+Sep 06 13:57:03 ..... inserting junctions into the genome indices
+Sep 06 13:58:23 ..... started mapping
+Sep 06 14:00:06 ..... finished mapping
+Sep 06 14:00:07 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/753_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/753_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:00:08 ..... started STAR run
+Sep 06 14:00:08 ..... loading genome
+Sep 06 14:00:38 ..... started 1st pass mapping
+Sep 06 14:01:16 ..... finished 1st pass mapping
+Sep 06 14:01:17 ..... inserting junctions into the genome indices
+Sep 06 14:02:36 ..... started mapping
+Sep 06 14:04:18 ..... finished mapping
+Sep 06 14:04:19 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/638_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/638_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:04:20 ..... started STAR run
+Sep 06 14:04:20 ..... loading genome
+Sep 06 14:04:49 ..... started 1st pass mapping
+Sep 06 14:05:31 ..... finished 1st pass mapping
+Sep 06 14:05:32 ..... inserting junctions into the genome indices
+Sep 06 14:06:52 ..... started mapping
+Sep 06 14:08:54 ..... finished mapping
+Sep 06 14:08:55 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/653_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/653_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:08:56 ..... started STAR run
+Sep 06 14:08:56 ..... loading genome
+Sep 06 14:09:26 ..... started 1st pass mapping
+Sep 06 14:10:04 ..... finished 1st pass mapping
+Sep 06 14:10:05 ..... inserting junctions into the genome indices
+Sep 06 14:11:26 ..... started mapping
+Sep 06 14:13:56 ..... finished mapping
+Sep 06 14:13:57 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/726_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/726_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:13:58 ..... started STAR run
+Sep 06 14:13:58 ..... loading genome
+Sep 06 14:14:27 ..... started 1st pass mapping
+Sep 06 14:15:04 ..... finished 1st pass mapping
+Sep 06 14:15:05 ..... inserting junctions into the genome indices
+Sep 06 14:16:25 ..... started mapping
+Sep 06 14:18:04 ..... finished mapping
+Sep 06 14:18:05 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/665_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/665_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:18:05 ..... started STAR run
+Sep 06 14:18:06 ..... loading genome
+Sep 06 14:18:36 ..... started 1st pass mapping
+Sep 06 14:19:14 ..... finished 1st pass mapping
+Sep 06 14:19:15 ..... inserting junctions into the genome indices
+Sep 06 14:20:33 ..... started mapping
+Sep 06 14:22:31 ..... finished mapping
+Sep 06 14:22:32 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/671_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/671_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:22:33 ..... started STAR run
+Sep 06 14:22:33 ..... loading genome
+Sep 06 14:23:02 ..... started 1st pass mapping
+Sep 06 14:23:31 ..... finished 1st pass mapping
+Sep 06 14:23:32 ..... inserting junctions into the genome indices
+Sep 06 14:24:52 ..... started mapping
+Sep 06 14:26:11 ..... finished mapping
+Sep 06 14:26:12 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/739_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/739_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:26:12 ..... started STAR run
+Sep 06 14:26:12 ..... loading genome
+Sep 06 14:26:42 ..... started 1st pass mapping
+Sep 06 14:27:15 ..... finished 1st pass mapping
+Sep 06 14:27:16 ..... inserting junctions into the genome indices
+Sep 06 14:28:36 ..... started mapping
+Sep 06 14:30:17 ..... finished mapping
+Sep 06 14:30:18 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/727_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/727_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:30:18 ..... started STAR run
+Sep 06 14:30:19 ..... loading genome
+Sep 06 14:30:48 ..... started 1st pass mapping
+Sep 06 14:31:24 ..... finished 1st pass mapping
+Sep 06 14:31:25 ..... inserting junctions into the genome indices
+Sep 06 14:32:45 ..... started mapping
+Sep 06 14:34:34 ..... finished mapping
+Sep 06 14:34:35 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/746_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/746_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:34:35 ..... started STAR run
+Sep 06 14:34:35 ..... loading genome
+Sep 06 14:35:04 ..... started 1st pass mapping
+Sep 06 14:35:32 ..... finished 1st pass mapping
+Sep 06 14:35:33 ..... inserting junctions into the genome indices
+Sep 06 14:36:53 ..... started mapping
+Sep 06 14:38:24 ..... finished mapping
+Sep 06 14:38:25 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/758_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/758_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:38:25 ..... started STAR run
+Sep 06 14:38:26 ..... loading genome
+Sep 06 14:38:55 ..... started 1st pass mapping
+Sep 06 14:39:46 ..... finished 1st pass mapping
+Sep 06 14:39:47 ..... inserting junctions into the genome indices
+Sep 06 14:41:07 ..... started mapping
+Sep 06 14:44:00 ..... finished mapping
+Sep 06 14:44:01 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/711_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/711_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:44:02 ..... started STAR run
+Sep 06 14:44:02 ..... loading genome
+Sep 06 14:44:32 ..... started 1st pass mapping
+Sep 06 14:44:59 ..... finished 1st pass mapping
+Sep 06 14:45:00 ..... inserting junctions into the genome indices
+Sep 06 14:46:18 ..... started mapping
+Sep 06 14:47:33 ..... finished mapping
+Sep 06 14:47:34 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/728_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/728_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:47:34 ..... started STAR run
+Sep 06 14:47:35 ..... loading genome
+Sep 06 14:48:03 ..... started 1st pass mapping
+Sep 06 14:48:42 ..... finished 1st pass mapping
+Sep 06 14:48:43 ..... inserting junctions into the genome indices
+Sep 06 14:50:02 ..... started mapping
+Sep 06 14:51:53 ..... finished mapping
+Sep 06 14:51:54 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/743_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/743_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:51:55 ..... started STAR run
+Sep 06 14:51:55 ..... loading genome
+Sep 06 14:52:24 ..... started 1st pass mapping
+Sep 06 14:52:59 ..... finished 1st pass mapping
+Sep 06 14:53:00 ..... inserting junctions into the genome indices
+Sep 06 14:54:19 ..... started mapping
+Sep 06 14:56:02 ..... finished mapping
+Sep 06 14:56:03 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/736_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/736_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 14:56:04 ..... started STAR run
+Sep 06 14:56:04 ..... loading genome
+Sep 06 14:56:33 ..... started 1st pass mapping
+Sep 06 14:57:12 ..... finished 1st pass mapping
+Sep 06 14:57:13 ..... inserting junctions into the genome indices
+Sep 06 14:58:33 ..... started mapping
+Sep 06 15:00:27 ..... finished mapping
+Sep 06 15:00:28 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/757_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/757_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:00:28 ..... started STAR run
+Sep 06 15:00:29 ..... loading genome
+Sep 06 15:00:58 ..... started 1st pass mapping
+Sep 06 15:01:51 ..... finished 1st pass mapping
+Sep 06 15:01:52 ..... inserting junctions into the genome indices
+Sep 06 15:03:13 ..... started mapping
+Sep 06 15:06:30 ..... finished mapping
+Sep 06 15:06:31 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/657_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/657_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:06:31 ..... started STAR run
+Sep 06 15:06:32 ..... loading genome
+Sep 06 15:07:02 ..... started 1st pass mapping
+Sep 06 15:07:35 ..... finished 1st pass mapping
+Sep 06 15:07:36 ..... inserting junctions into the genome indices
+Sep 06 15:08:57 ..... started mapping
+Sep 06 15:10:31 ..... finished mapping
+Sep 06 15:10:31 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/700_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/700_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:10:32 ..... started STAR run
+Sep 06 15:10:32 ..... loading genome
+Sep 06 15:11:01 ..... started 1st pass mapping
+Sep 06 15:11:42 ..... finished 1st pass mapping
+Sep 06 15:11:43 ..... inserting junctions into the genome indices
+Sep 06 15:13:03 ..... started mapping
+Sep 06 15:15:06 ..... finished mapping
+Sep 06 15:15:07 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/711_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/711_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:15:08 ..... started STAR run
+Sep 06 15:15:08 ..... loading genome
+Sep 06 15:15:39 ..... started 1st pass mapping
+Sep 06 15:16:14 ..... finished 1st pass mapping
+Sep 06 15:16:15 ..... inserting junctions into the genome indices
+Sep 06 15:17:35 ..... started mapping
+Sep 06 15:19:10 ..... finished mapping
+Sep 06 15:19:11 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/758_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/758_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:19:11 ..... started STAR run
+Sep 06 15:19:11 ..... loading genome
+Sep 06 15:19:39 ..... started 1st pass mapping
+Sep 06 15:19:53 ..... finished 1st pass mapping
+Sep 06 15:19:54 ..... inserting junctions into the genome indices
+Sep 06 15:21:12 ..... started mapping
+Sep 06 15:21:54 ..... finished mapping
+Sep 06 15:21:55 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/746_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/746_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:21:55 ..... started STAR run
+Sep 06 15:21:55 ..... loading genome
+Sep 06 15:22:24 ..... started 1st pass mapping
+Sep 06 15:23:05 ..... finished 1st pass mapping
+Sep 06 15:23:06 ..... inserting junctions into the genome indices
+Sep 06 15:24:27 ..... started mapping
+Sep 06 15:26:37 ..... finished mapping
+Sep 06 15:26:38 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/727_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/727_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:26:38 ..... started STAR run
+Sep 06 15:26:38 ..... loading genome
+Sep 06 15:27:07 ..... started 1st pass mapping
+Sep 06 15:27:50 ..... finished 1st pass mapping
+Sep 06 15:27:51 ..... inserting junctions into the genome indices
+Sep 06 15:29:12 ..... started mapping
+Sep 06 15:31:09 ..... finished mapping
+Sep 06 15:31:10 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/739_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/739_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:31:10 ..... started STAR run
+Sep 06 15:31:10 ..... loading genome
+Sep 06 15:31:40 ..... started 1st pass mapping
+Sep 06 15:32:18 ..... finished 1st pass mapping
+Sep 06 15:32:19 ..... inserting junctions into the genome indices
+Sep 06 15:33:40 ..... started mapping
+Sep 06 15:35:29 ..... finished mapping
+Sep 06 15:35:29 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/700_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/700_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:35:30 ..... started STAR run
+Sep 06 15:35:30 ..... loading genome
+Sep 06 15:36:00 ..... started 1st pass mapping
+Sep 06 15:36:36 ..... finished 1st pass mapping
+Sep 06 15:36:37 ..... inserting junctions into the genome indices
+Sep 06 15:37:56 ..... started mapping
+Sep 06 15:39:34 ..... finished mapping
+Sep 06 15:39:35 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/657_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/657_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:39:35 ..... started STAR run
+Sep 06 15:39:35 ..... loading genome
+Sep 06 15:40:04 ..... started 1st pass mapping
+Sep 06 15:40:35 ..... finished 1st pass mapping
+Sep 06 15:40:36 ..... inserting junctions into the genome indices
+Sep 06 15:41:56 ..... started mapping
+Sep 06 15:43:23 ..... finished mapping
+Sep 06 15:43:24 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/757_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/757_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:43:25 ..... started STAR run
+Sep 06 15:43:25 ..... loading genome
+Sep 06 15:43:54 ..... started 1st pass mapping
+Sep 06 15:44:31 ..... finished 1st pass mapping
+Sep 06 15:44:32 ..... inserting junctions into the genome indices
+Sep 06 15:45:51 ..... started mapping
+Sep 06 15:48:06 ..... finished mapping
+Sep 06 15:48:06 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/736_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/736_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:48:07 ..... started STAR run
+Sep 06 15:48:07 ..... loading genome
+Sep 06 15:48:36 ..... started 1st pass mapping
+Sep 06 15:49:16 ..... finished 1st pass mapping
+Sep 06 15:49:17 ..... inserting junctions into the genome indices
+Sep 06 15:50:37 ..... started mapping
+Sep 06 15:52:26 ..... finished mapping
+Sep 06 15:52:27 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/743_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/743_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:52:28 ..... started STAR run
+Sep 06 15:52:28 ..... loading genome
+Sep 06 15:52:57 ..... started 1st pass mapping
+Sep 06 15:53:35 ..... finished 1st pass mapping
+Sep 06 15:53:36 ..... inserting junctions into the genome indices
+Sep 06 15:54:56 ..... started mapping
+Sep 06 15:56:51 ..... finished mapping
+Sep 06 15:56:52 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/728_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/728_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 15:56:53 ..... started STAR run
+Sep 06 15:56:53 ..... loading genome
+Sep 06 15:57:21 ..... started 1st pass mapping
+Sep 06 15:58:06 ..... finished 1st pass mapping
+Sep 06 15:58:07 ..... inserting junctions into the genome indices
+Sep 06 15:59:29 ..... started mapping
+Sep 06 16:01:38 ..... finished mapping
+Sep 06 16:01:39 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/689_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/689_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:01:39 ..... started STAR run
+Sep 06 16:01:40 ..... loading genome
+Sep 06 16:02:08 ..... started 1st pass mapping
+Sep 06 16:02:47 ..... finished 1st pass mapping
+Sep 06 16:02:47 ..... inserting junctions into the genome indices
+Sep 06 16:04:07 ..... started mapping
+Sep 06 16:05:56 ..... finished mapping
+Sep 06 16:05:57 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/702_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/702_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:05:58 ..... started STAR run
+Sep 06 16:05:58 ..... loading genome
+Sep 06 16:06:27 ..... started 1st pass mapping
+Sep 06 16:06:56 ..... finished 1st pass mapping
+Sep 06 16:06:57 ..... inserting junctions into the genome indices
+Sep 06 16:08:14 ..... started mapping
+Sep 06 16:09:54 ..... finished mapping
+Sep 06 16:09:54 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/669_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/669_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:09:55 ..... started STAR run
+Sep 06 16:09:55 ..... loading genome
+Sep 06 16:10:24 ..... started 1st pass mapping
+Sep 06 16:11:04 ..... finished 1st pass mapping
+Sep 06 16:11:05 ..... inserting junctions into the genome indices
+Sep 06 16:12:24 ..... started mapping
+Sep 06 16:14:38 ..... finished mapping
+Sep 06 16:14:39 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/755_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/755_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:14:40 ..... started STAR run
+Sep 06 16:14:40 ..... loading genome
+Sep 06 16:15:08 ..... started 1st pass mapping
+Sep 06 16:15:54 ..... finished 1st pass mapping
+Sep 06 16:15:55 ..... inserting junctions into the genome indices
+Sep 06 16:17:14 ..... started mapping
+Sep 06 16:19:14 ..... finished mapping
+Sep 06 16:19:17 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/734_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/734_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:19:17 ..... started STAR run
+Sep 06 16:19:17 ..... loading genome
+Sep 06 16:19:46 ..... started 1st pass mapping
+Sep 06 16:20:24 ..... finished 1st pass mapping
+Sep 06 16:20:25 ..... inserting junctions into the genome indices
+Sep 06 16:21:45 ..... started mapping
+Sep 06 16:24:09 ..... finished mapping
+Sep 06 16:24:10 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/672_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/672_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:24:11 ..... started STAR run
+Sep 06 16:24:11 ..... loading genome
+Sep 06 16:24:40 ..... started 1st pass mapping
+Sep 06 16:25:18 ..... finished 1st pass mapping
+Sep 06 16:25:19 ..... inserting junctions into the genome indices
+Sep 06 16:26:39 ..... started mapping
+Sep 06 16:28:21 ..... finished mapping
+Sep 06 16:28:22 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/707_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/707_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:28:22 ..... started STAR run
+Sep 06 16:28:22 ..... loading genome
+Sep 06 16:28:52 ..... started 1st pass mapping
+Sep 06 16:29:38 ..... finished 1st pass mapping
+Sep 06 16:29:39 ..... inserting junctions into the genome indices
+Sep 06 16:30:59 ..... started mapping
+Sep 06 16:33:24 ..... finished mapping
+Sep 06 16:33:25 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/678_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/678_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:33:26 ..... started STAR run
+Sep 06 16:33:26 ..... loading genome
+Sep 06 16:33:55 ..... started 1st pass mapping
+Sep 06 16:34:30 ..... finished 1st pass mapping
+Sep 06 16:34:31 ..... inserting junctions into the genome indices
+Sep 06 16:35:52 ..... started mapping
+Sep 06 16:37:26 ..... finished mapping
+Sep 06 16:37:27 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/744_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/744_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:37:28 ..... started STAR run
+Sep 06 16:37:28 ..... loading genome
+Sep 06 16:37:57 ..... started 1st pass mapping
+Sep 06 16:38:34 ..... finished 1st pass mapping
+Sep 06 16:38:35 ..... inserting junctions into the genome indices
+Sep 06 16:39:56 ..... started mapping
+Sep 06 16:41:44 ..... finished mapping
+Sep 06 16:41:45 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/644_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/644_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:41:46 ..... started STAR run
+Sep 06 16:41:46 ..... loading genome
+Sep 06 16:42:14 ..... started 1st pass mapping
+Sep 06 16:42:42 ..... finished 1st pass mapping
+Sep 06 16:42:43 ..... inserting junctions into the genome indices
+Sep 06 16:44:03 ..... started mapping
+Sep 06 16:45:22 ..... finished mapping
+Sep 06 16:45:23 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/725_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/725_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:45:23 ..... started STAR run
+Sep 06 16:45:23 ..... loading genome
+Sep 06 16:45:53 ..... started 1st pass mapping
+Sep 06 16:46:15 ..... finished 1st pass mapping
+Sep 06 16:46:16 ..... inserting junctions into the genome indices
+Sep 06 16:47:35 ..... started mapping
+Sep 06 16:48:44 ..... finished mapping
+Sep 06 16:48:45 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/734_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/734_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:48:46 ..... started STAR run
+Sep 06 16:48:46 ..... loading genome
+Sep 06 16:49:15 ..... started 1st pass mapping
+Sep 06 16:49:49 ..... finished 1st pass mapping
+Sep 06 16:49:50 ..... inserting junctions into the genome indices
+Sep 06 16:51:08 ..... started mapping
+Sep 06 16:52:41 ..... finished mapping
+Sep 06 16:52:42 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/755_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/755_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:52:43 ..... started STAR run
+Sep 06 16:52:43 ..... loading genome
+Sep 06 16:53:12 ..... started 1st pass mapping
+Sep 06 16:53:44 ..... finished 1st pass mapping
+Sep 06 16:53:44 ..... inserting junctions into the genome indices
+Sep 06 16:55:05 ..... started mapping
+Sep 06 16:56:32 ..... finished mapping
+Sep 06 16:56:33 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/669_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/669_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 16:56:34 ..... started STAR run
+Sep 06 16:56:34 ..... loading genome
+Sep 06 16:57:03 ..... started 1st pass mapping
+Sep 06 16:57:48 ..... finished 1st pass mapping
+Sep 06 16:57:49 ..... inserting junctions into the genome indices
+Sep 06 16:59:08 ..... started mapping
+Sep 06 17:01:54 ..... finished mapping
+Sep 06 17:01:55 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/702_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/702_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:01:56 ..... started STAR run
+Sep 06 17:01:56 ..... loading genome
+Sep 06 17:02:25 ..... started 1st pass mapping
+Sep 06 17:02:48 ..... finished 1st pass mapping
+Sep 06 17:02:48 ..... inserting junctions into the genome indices
+Sep 06 17:04:07 ..... started mapping
+Sep 06 17:05:11 ..... finished mapping
+Sep 06 17:05:12 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/689_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/689_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:05:12 ..... started STAR run
+Sep 06 17:05:13 ..... loading genome
+Sep 06 17:05:42 ..... started 1st pass mapping
+Sep 06 17:06:15 ..... finished 1st pass mapping
+Sep 06 17:06:16 ..... inserting junctions into the genome indices
+Sep 06 17:07:37 ..... started mapping
+Sep 06 17:09:17 ..... finished mapping
+Sep 06 17:09:18 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/725_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/725_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:09:19 ..... started STAR run
+Sep 06 17:09:19 ..... loading genome
+Sep 06 17:09:47 ..... started 1st pass mapping
+Sep 06 17:10:18 ..... finished 1st pass mapping
+Sep 06 17:10:19 ..... inserting junctions into the genome indices
+Sep 06 17:11:39 ..... started mapping
+Sep 06 17:13:22 ..... finished mapping
+Sep 06 17:13:23 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/644_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/644_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:13:23 ..... started STAR run
+Sep 06 17:13:23 ..... loading genome
+Sep 06 17:13:51 ..... started 1st pass mapping
+Sep 06 17:14:51 ..... finished 1st pass mapping
+Sep 06 17:14:52 ..... inserting junctions into the genome indices
+Sep 06 17:16:11 ..... started mapping
+Sep 06 17:19:35 ..... finished mapping
+Sep 06 17:19:36 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/744_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/744_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:19:37 ..... started STAR run
+Sep 06 17:19:37 ..... loading genome
+Sep 06 17:20:06 ..... started 1st pass mapping
+Sep 06 17:20:44 ..... finished 1st pass mapping
+Sep 06 17:20:45 ..... inserting junctions into the genome indices
+Sep 06 17:22:05 ..... started mapping
+Sep 06 17:23:45 ..... finished mapping
+Sep 06 17:23:46 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/678_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/678_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:23:47 ..... started STAR run
+Sep 06 17:23:47 ..... loading genome
+Sep 06 17:24:16 ..... started 1st pass mapping
+Sep 06 17:24:54 ..... finished 1st pass mapping
+Sep 06 17:24:55 ..... inserting junctions into the genome indices
+Sep 06 17:26:16 ..... started mapping
+Sep 06 17:28:07 ..... finished mapping
+Sep 06 17:28:07 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/707_TNFa.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/707_TNFa. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:28:08 ..... started STAR run
+Sep 06 17:28:08 ..... loading genome
+Sep 06 17:28:38 ..... started 1st pass mapping
+Sep 06 17:29:17 ..... finished 1st pass mapping
+Sep 06 17:29:18 ..... inserting junctions into the genome indices
+Sep 06 17:30:37 ..... started mapping
+Sep 06 17:32:26 ..... finished mapping
+Sep 06 17:32:27 ..... finished successfully
+	STAR --runMode alignReads --runThreadN 28 --genomeDir /scratch/vasccell/cs806/exprPhenoData/GRCh38_STARindex --readFilesIn /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/rawReads/672_untr.fastq.gz --readFilesCommand zcat --sjdbOverhang 89 --outFileNamePrefix /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/672_untr. --twopassMode Basic --quantMode TranscriptomeSAM GeneCounts --outSAMunmapped Within --outSAMstrandField intronMotif --outFilterIntronMotifs RemoveNoncanonical --outFilterType BySJout --limitSjdbInsertNsj 2000000
+	STAR version: 2.7.10b   compiled: 2023-09-07T16:18:26+01:00 alice-login01:/tmp/root/spack-stage/spack-stage-star-2.7.10b-m3zkpicxc646uuyr27srekzcr7f2dnv4/spack-src/source
+Sep 06 17:32:27 ..... started STAR run
+Sep 06 17:32:27 ..... loading genome
+Sep 06 17:32:56 ..... started 1st pass mapping
+Sep 06 17:33:30 ..... finished 1st pass mapping
+Sep 06 17:33:30 ..... inserting junctions into the genome indices
+Sep 06 17:34:51 ..... started mapping
+Sep 06 17:36:33 ..... finished mapping
+Sep 06 17:36:34 ..... finished successfully
+Fri Sep  6 05:36:35 PM BST 2024

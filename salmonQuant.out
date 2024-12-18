@@ -1,0 +1,35 @@
+Threads = 2
+Vertex length = 31
+Hash functions = 5
+Filter size = 2147483648
+Capacity = 2
+Files: 
+/scratch/vasccell/cs806/exprPhenoData/Homo_sapiens.GRCh38.cdna.all_index/ref_k31_fixed.fa
+--------------------------------------------------------------------------------
+Round 0, 0:2147483648
+Pass	Filling	Filtering
+1	21	83	
+2	17	1
+True junctions count = 792746
+False junctions count = 1916158
+Hash table size = 2708904
+Candidate marks count = 14465788
+--------------------------------------------------------------------------------
+Reallocating bifurcations time: 0
+True marks count: 8182828
+Edges construction time: 7
+--------------------------------------------------------------------------------
+Distinct junctions = 792746
+
+for info, total work write each  : 2.331    total work inram from level 3 : 4.322  total work raw : 25.000 
+Bitarray       609349504  bits (100.00 %)   (array + ranks )
+final hash             0  bits (0.00 %) (nb in final hash 0)
+Processing 706_TNFa.
+Processing 740_untr.
+Processing 753_untr.
+Processing 758_TNFa.
+Processing 728_TNFa.
+Processing 757_untr.
+Processing 734_untr.
+Processing 744_untr.
+Processing 678_TNFa.

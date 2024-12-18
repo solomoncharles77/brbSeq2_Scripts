@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# SBATCH --job-name=countReads
+# SBATCH --account=vasccell
+# SBATCH --nodes=1
+# SBATCH --cpus-per-task=28
+# SBATCH --mem=20G
+# SBATCH --time=02:00:00
+# SBATCH --mail-type=BEGIN,END,FAIL
+# SBATCH --mail-user=cs806@leicester.ac.uk
+# SBATCH --output=parallel-%x.out
+# SBATCH --error=parallel-%x.err
+# SBATCH --export=NONE
+
+cd $SLURM_SUBMIT_DIR
+
+module load R
+
+Rscript /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/brbSeq2_Scripts/countReads.R

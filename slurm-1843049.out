@@ -1,0 +1,47 @@
+
+        ==========     _____ _    _ ____  _____  ______          _____  
+        =====         / ____| |  | |  _ \|  __ \|  ____|   /\   |  __ \ 
+          =====      | (___ | |  | | |_) | |__) | |__     /  \  | |  | |
+            ====      \___ \| |  | |  _ <|  _  /|  __|   / /\ \ | |  | |
+              ====    ____) | |__| | |_) | | \ \| |____ / ____ \| |__| |
+        ==========   |_____/ \____/|____/|_|  \_\______/_/    \_\_____/
+       Rsubread 2.14.2
+
+//========================== featureCounts setting ===========================\\
+||                                                                            ||
+||             Input files : 9 SAM files                                      ||
+||                                                                            ||
+||                           728_TNFa.Aligned.out.sam                         ||
+||                           758_TNFa.Aligned.out.sam                         ||
+||                           740_untr.Aligned.out.sam                         ||
+||                           706_TNFa.Aligned.out.sam                         ||
+||                           757_untr.Aligned.out.sam                         ||
+||                           734_untr.Aligned.out.sam                         ||
+||                           753_untr.Aligned.out.sam                         ||
+||                           678_TNFa.Aligned.out.sam                         ||
+||                           744_untr.Aligned.out.sam                         ||
+||                                                                            ||
+||              Paired-end : yes                                              ||
+||        Count read pairs : yes                                              ||
+||              Annotation : Homo_sapiens.GRCh38.100.gtf (GTF)                ||
+||      Dir for temp files : .                                                ||
+||                 Threads : 28                                               ||
+||                   Level : meta-feature level                               ||
+||      Multimapping reads : counted                                          ||
+|| Multi-overlapping reads : not counted                                      ||
+||   Min overlapping bases : 1                                                ||
+||                                                                            ||
+\\============================================================================//
+
+//================================= Running ==================================\\
+||                                                                            ||
+|| Load annotation file Homo_sapiens.GRCh38.100.gtf ...                       ||
+||    Features : 1378275                                                      ||
+||    Meta-features : 60683                                                   ||
+||    Chromosomes/contigs : 47                                                ||
+||                                                                            ||
+|| Process SAM file 728_TNFa.Aligned.out.sam...                               ||
+||    Strand specific : reversely stranded                                    ||
+ERROR: No paired-end reads were detected in paired-end read library : /lustre/alice3/scratch/vasccell/cs806/brbSeq/brbSeq2/mappedReads/728_TNFa.Aligned.out.sam
+No counts were generated.
+Execution halted
